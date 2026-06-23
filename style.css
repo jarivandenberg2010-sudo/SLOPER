@@ -1,5 +1,12 @@
 body {
-    background-color: black;
+    margin: 0;
+    height: 100vh;
+
+    background-image: url("ChatGPT Image 22 jun 2026, 23_46_08.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
     color: white;
     text-align: center;
     font-family: Arial, sans-serif;
